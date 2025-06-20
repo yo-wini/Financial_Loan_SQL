@@ -11,7 +11,7 @@ This project is designed to generate a comprehensive **Bank Loan Report** that e
 
 ---
 
-## 📌 Key KPIs and Metrics
+##  Key KPIs and Metrics
 
 ### 1. **General Loan KPIs**
 - **Total Loan Applications** 
