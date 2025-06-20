@@ -1,3 +1,0 @@
-'''sql
-select * from loan;
-'''
